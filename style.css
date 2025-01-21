@@ -1,0 +1,14 @@
+h1{
+    text-align: center;
+    color: rgb(98, 63, 204);
+}
+
+p{
+    color: brown;
+    font-size: 30px;
+}
+
+p i{
+    color: rgb(10, 69, 248);
+    font-size: 50px;
+}
